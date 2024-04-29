@@ -1,0 +1,3 @@
+FROM registry.access.redhat.com/ubi9/python-311@sha256:78aa5022cb9e28652b5923162fee2e6e6192df84166abb5c7438910f70f9d02e
+
+
